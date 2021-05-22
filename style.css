@@ -250,7 +250,11 @@ h4{
    padding-left: 230px;
 }
 .icon-container img{
-   width: 10%;
+   width: 7%;
+   /* justify-content: space-between; */
+   margin-right: 20px;
+   margin-left: 20px;
+
 }
 .inquiry{
    height: 600px;
@@ -279,6 +283,6 @@ h4{
    box-shadow: 5px 10px 30px rgba(0,0,0,0.1);
    transition: all ease 0.2s;
 }
-/* footer{
+footer{
    text-align: center;
-} */
+}
